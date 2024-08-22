@@ -1,4 +1,4 @@
-# portfolio-django-1
+# Система Задач - Django RTF+Celery
 
 ## Установка
 

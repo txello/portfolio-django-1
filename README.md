@@ -1,4 +1,4 @@
-# Система Задач - Django RTF+Celery
+# Система Задач - Django DRF+Celery
 
 ## Установка
 
